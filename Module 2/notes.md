@@ -59,3 +59,6 @@ https://s3.amazonaws.com/looker-elearning-resources/Requirements+Gathering+Works
       > Larg and less-specific
       > Long-time periods
       > Big decisions
+
+
+      https://www.coursera.org/programs/analisis-de-datos-google-2024-z0buk
