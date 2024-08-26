@@ -30,3 +30,30 @@
 * External data -> Data that lives and is generated outside of an organization
 * Structured data -> Data that is organized in a certain format, such as rows and columns
 * Unstructured data -> Data that it no have an order or organization 
+
+
+// <WIDE DATA -> Data in which every data subject has a single row with multiple columns to hold the values of various attributes of the subject.
+// <LONG DATA -> Data in which each row is one time point per subject, so each subject will have data in multiple rows.
+
+<!-- BIAS -->
+* Sampling bias: a sample tha is not representative of the population as a whole
+* Observer bias: Tendency for different people to observe things differently
+* Interpretation bias: Tendency to always interpreter ambiguous situations in a positive or a negative way
+* Confirmation bias: Tendency to search for or interpret information in a way that confirms pre-existing beliefs
+
+<!-- 'GOOD' DATA SOURCES -->
+- Reliable
+- Original
+- Comprehensive 
+- Current
+- Cited
+<Note: Every good solution is found by avoiding bad data>
+
+<!-- ASPECTS OF DATA ETHICS -->
+* Ownership: Individuals own the data they provide
+* Transaction transparency: All data-processiong and algorithims shouldbe completelyexplainableand understood by individuals who provide their data
+* Consent: An individual's right to know explicit details about how and why their data will be used before agreeing to provide it
+* Currency: Individuals sould be aware of financial transactions resultin from the use of their personal data and the scale of these transactions
+* Privacy: Preservig a data subject's informationand activity any time a data transaction occurs
+* Openess
+
