@@ -73,4 +73,27 @@
 <!-- DATABASE -->
 A data base is a collection of data stored in a computer system
 
+* //Relational database -> A database that contains a series of related tables that can be connected via their relationships
+
+- Primary key: An identifier that references a column in which each value is unique.
+- Foreign key: A field within a table that is a primary key in another table
+
 <Metadata: Data about data>
+The metadata tells de analyst what the data it's all about
+
+// 3 Common types of metadata: 
+- Descriptive: Metadata thar descibes a piece of data and can be used to identify it at a later point in time
+- Structural: Metadata that indicatees how a piece of data is organized and whether it is part of one or more than one data collection 
+- Administrative: Metadata that indicates the technical source of a digital asset
+
+* A metadata repository is a database specifically created to store metadata
+
+<Data governance -> A process to ensure the formal management of a company's data assets
+
+ * Internal data: Data that lives within a company's own systems
+ * External data: Data that lives and is generated outside an organization
+
+ <CSV: a file which stands for Comma-Separated Values, is a plain text file that stores tabular data (numbers and text) in a structured format>
+
+  - > Sorting data: Arranging data into a meaningful order to make it easier to understand, analize and visualize
+ - > Filtering: Showing only the data that meets a specific criteria while hiding the rest 
