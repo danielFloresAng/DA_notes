@@ -26,3 +26,39 @@
     * Malware
     * Hacking
     * System failures
+
+- Goals and data aligned: 
+    We can obtain valuable info and make accurate decisions when the data is aligned with business objectives.
+    When de data is relevant and would help to resolve a corporative problem it means that the data is well aligned.
+
+- Types of insufficient data
+  * Data from onley one source
+  * Data that keeps updating
+  * Outdated data
+  * Geographically - limited data
+
+- > Problems o possible solutions we have insufficient data: 
+    
+    > Posible solutions to missing data
+      - Collect data in a minor scale to make a preliminar analisys. Ask for more time to complete the analisys after have collet more info.
+      - If there is no time to collect more information, make the analisys using indirect data from others data set. 
+
+    > Posible solutions to  little data: 
+      - Make the analisys using indirect data with real data
+      - Adjust the analisys to align with data that already have
+
+    > Posible solutions to incorrect data or data with errors: 
+      - If we have incorrect data we need to comunicate the requirements again
+      - Identify the errores on the data, if is possible, correct them in the source searching for the error patron. 
+      - If we can't correct the errors on the data, we can ignore them and go foward with the analisys just in case it's big enough to be able to ignore that data and that that don't make a sistematyc bias.
+
+- - > POPULATION: All possible data values in a certain dataset
+- - > SAMPLE SIZE: A part of a population that is representative of the population
+- - > SAMPLIGN BIAS: A sample isn't representative of the population as a whole
+
+* Statistical power: The probability of getting meaningful results from a test
+* Hypothesis testing: A way to see if a survey of experiment has meaningful results
+
+<If a test is statistically significant, it means the results of the test are real and not an error caused by random chance> 
+
+* Confidence level: The probability that your sample size accurately reflects the greater population
