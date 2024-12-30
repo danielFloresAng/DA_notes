@@ -62,3 +62,17 @@
 <If a test is statistically significant, it means the results of the test are real and not an error caused by random chance> 
 
 * Confidence level: The probability that your sample size accurately reflects the greater population
+
+* Margin of error: Is the maximum amount that the sample results are expected to differ from those of the actual population
+
+> To calculate margin of error we need: 
+  - Population size
+  - Sample size
+  - Confidence level
+
+  /// Ej.: 
+      Sample size = 500
+      Population = 80,000,000
+      Confidence level = 99%
+  > Margin of error = 5.77
+
