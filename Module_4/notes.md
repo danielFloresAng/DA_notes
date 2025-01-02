@@ -76,3 +76,19 @@
       Confidence level = 99%
   > Margin of error = 5.77
 
+* Dirt data: Data that is incomplete, incorrect, or irrelevant to the problem you are trying to solve.
+
+* Clean data: Data tha is complete, correct, and relevant to the problem you're trying to solve
+
+- KIND OF DIRTY DATA: 
+  > Duplicate data
+  > Outdated data
+  > Incomplete data
+  > Incorrect / inaccurate data
+  > Inconsistent data
+
+- Field: A single space of information from a row or column of a spreadshead
+- Field length: A tool for determining how many characters can be keyed into a field
+
+* Data margin: Process to combine two or more dataset into a single dataset
+* Compatibility: How well two or more data set are able to work together
