@@ -92,3 +92,9 @@
 
 * Data margin: Process to combine two or more dataset into a single dataset
 * Compatibility: How well two or more data set are able to work together
+
+> Conditional formating -> A spreadsheet tool that changes how cells appear when values meet specific conditions
+
+> Text string -> A group of characters within a cell, most often composed of letters
+
+> Split -> A tool that divides text around a specified character and puts each fragment into a new, separate cell 

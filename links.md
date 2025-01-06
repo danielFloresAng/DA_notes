@@ -3,3 +3,6 @@
 
 - Difference Between Open Data and Public Data
   https://goodcalculators.com/margin-of-error-calculator/
+
+  - Tips to format & clean up data
+  https://support.google.com/a/users/answer/9604139?hl=en#zippy=
