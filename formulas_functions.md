@@ -39,3 +39,9 @@ ______________________________________________________________________________
   - =TRIM(range)
   > Ej. =TRIM(T4,A3)
 ______________________________________________________________________________
+
+<VLOOKUP: Vertical Lookup, A function that searches for a certain value in a column to return a corresponding piece of information.: A function that removes leading, trailing, and repeated spaces in data.>
+
+  - =VLOOKUP(data to look up,'where to look' !Range, column, false)
+  > Ej. =VLOOKUP(A2,'Sheet 2'!$A$2:$B$31,2,FALSE)
+______________________________________________________________________________

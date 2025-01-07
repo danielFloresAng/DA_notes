@@ -6,3 +6,6 @@
 
   - Tips to format & clean up data
   https://support.google.com/a/users/answer/9604139?hl=en#zippy=
+
+- Automating Scientific Data Analysis
+  https://towardsdatascience.com/automating-scientific-data-analysis-part-1-c9979cd0817e
