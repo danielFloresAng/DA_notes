@@ -98,3 +98,5 @@
 > Text string -> A group of characters within a cell, most often composed of letters
 
 > Split -> A tool that divides text around a specified character and puts each fragment into a new, separate cell 
+
+* DATA MAPPING: The process of matching fields from one data source to another
