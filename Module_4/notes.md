@@ -100,3 +100,7 @@
 > Split -> A tool that divides text around a specified character and puts each fragment into a new, separate cell 
 
 * DATA MAPPING: The process of matching fields from one data source to another
+
+//// VERIFICATION: A process to confirm that a data-cleaning effort was well-executed and the resulting data is accurate and reliable
+
+<Changelog: A file containing a chrhonologically ordered list of modifications made to a project>
