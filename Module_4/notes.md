@@ -104,3 +104,20 @@
 //// VERIFICATION: A process to confirm that a data-cleaning effort was well-executed and the resulting data is accurate and reliable
 
 <Changelog: A file containing a chrhonologically ordered list of modifications made to a project>
+
+//// See the big picture when verifying data-cleaning
+  - Consider the business problem
+  - Consider the goal
+  - Consider the data
+
+  * Ther are trhee steps to consider when you are working in a project: 
+  - 1. To confirm the business problem
+  - 2. To confirm the project goal
+  - 3. Verify that the data is able to solve the problem
+
+<Documentation: The process of tracking changes, additions, deletions, and errores involved in your data-cleaning effort>
+
+* Benefits of documentation: 
+  - Recover data-cleaning errors
+  - Inform other users of changes
+  - Determine quality of data

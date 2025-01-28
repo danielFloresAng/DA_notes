@@ -84,5 +84,17 @@ _____________________________________________________________________________
         `projectsqlda.customer_data.customer_purchase` 
       WHERE
         product = 'couch'
+_____________________________________________________________________________
+- CASE-Statement --> The CASE statement goes through one or more conditions and returns a value as soon as a condition is met.
+
+  > Ej.:
+    SELECT 
+      customer_id,
+      CASE <!-- Type the CASE statement and then put the condition (one or more) with THEN. ELSE statement will run if none of the conditions were True -->
+        WHEN name = 'Devadas Sloan' THEN 'Devadas Loan'
+        ELSE name
+        END AS cleaned_name <!-- END AS to add to a new column -->
+    FROM 
+      `projectsqlda.customer_data.customer_address` 
 
       <!--  -->

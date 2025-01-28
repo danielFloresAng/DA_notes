@@ -60,3 +60,12 @@
   > Ej. =SPLIT(A)
 
 ---
+
+
+<COUNTA: Counts the total numbers of values within a specified range.>
+
+---
+
+<CASE-Statement: The CASE statement goes through one or more conditions and returns a value as soon as a condition is met.>
+
+---
