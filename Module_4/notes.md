@@ -121,3 +121,16 @@
   - Recover data-cleaning errors
   - Inform other users of changes
   - Determine quality of data
+
+
+<!-- ------------------- -->
+/// DOCUMENTATION.
+
+  > Example of how make documentation and changes historial:
+
+# Data cleaning documentation 
+
+  - I removed duplicate instance, shich decreased the number of rows from 33 to 32, and lowered the membership total by %500
+  
+
+<!-- ------------------- -->

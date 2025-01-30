@@ -69,3 +69,24 @@
 <CASE-Statement: The CASE statement goes through one or more conditions and returns a value as soon as a condition is met.>
 
 ---
+<IMPORTRANGE: Import and page data from one sheet to another and updates de data automatically.>
+
+- =IMPORTRANGE(spreadsheet_url, range_string)
+  > Ej. 
+    =IMPORTRANGE("https://docs.google.com/spreadsheets/d/1TmSoTCeMdY5RT7IsA9MUflg-QiOyXK4_zyCUZgkPZMY/edit?gid=0#gid=0","Sheet1!A2:C25")
+
+---
+<QUERY: Allows to make SQL querys on a sheet.>
+
+- =QUERY(Sheet and Range, "Select *")
+  > Ej. 
+    =QUERY('Association ABC memberships'!$A$1:$I$50,"select A,C  ")
+
+---
+<FILTER: Filter the data where a condition is met.>
+
+- =FILTER(range, condition1, [condition2, ...])
+  > Ej. 
+    =filter(A2:C20,B2:B20 <1000)
+
+---
