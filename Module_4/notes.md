@@ -123,7 +123,7 @@
   - Determine quality of data
 
 
-<!-- ------------------- -->
+<!-- --------------------------------------------------------------------------- -->
 /// DOCUMENTATION.
 
   > Example of how make documentation and changes historial:
@@ -133,4 +133,17 @@
   - I removed duplicate instance, shich decreased the number of rows from 33 to 32, and lowered the membership total by %500
   
 
-<!-- ------------------- -->
+<!-- --------------------------------------------------------------------------- -->
+
+/// BUILDING A RESUME
+ 
+  * Contact information
+    - Name
+    - Address
+    - Phone number
+    - Email address
+
+<Summary: Add a sumary in the resume could be helpful, but its optional. If have some specified sxperience in the field could be good idea put a summary. Just keep it descritptive but simple> 
+
+Ex.:
+  > "Entry-level data analytics professional; recently completed the googel data analytics         professional certificate."
